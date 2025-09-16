@@ -1,6 +1,6 @@
-# Probset 3 – Computational Group Theory
+# Probset 3 – Geometric Foundations of data analysis
 
-This repository contains my work for **Problem Set 3** from the De Brún Summer School on Computational Group Theory.  
+This repository contains my work for **Problem Set 3** Semester 1 of Geometric Fopundations of Data Analysis  
 It showcases solutions implemented in Python using Jupyter Notebook.
 
 ## 📂 Contents
